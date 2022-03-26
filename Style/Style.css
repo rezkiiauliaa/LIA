@@ -1,0 +1,21 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-style: italic;
+    font-variant: small-caps;
+
+    color:black;
+
+}
+
+.pl p {
+    font-variant:unset;
+    font-style:oblique;
+    font-size:small;
+    background-color: aqua;
+
+}
+
+.header{
+    min-height: ;
+}100
